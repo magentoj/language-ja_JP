@@ -1268,7 +1268,7 @@ A product type is not defined for the indexer.,商品種別はインデクサー
 "A public shared catalog already exists. If you proceed, the existing public shared catalog will be converted to a custom catalog. All the companies defined in the existing public shared catalog will be re-assigned to the new public shared catalog.",公開共有カタログがすでに存在します。 続行すると、既存の公開共有カタログがカスタムカタログに変換されます。 既存の公開共有カタログで定義されているすべての会社は、新しい公開共有カタログに再び割り当てられます。
 A quantity of %1 is greater than you can return.,%1の数量は返すことができます。
 A quantity you're trying to add exceeds the number of products we shipped.,追加しようとしている数量が、出荷された商品の数を超えています。
-A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit.,注文 %order_id で ％refunded_amountの払い戻しが行われました。 この金額は会社のクレジットに適用されています。
+A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit.,注文 %order_id で %refunded_amountの払い戻しが行われました。 この金額は会社のクレジットに適用されています。
 A region_id is required for the specified country code,指定した国コードには region_id が必要です。
 A required field is missing.,必須のフィールドがありません。
 A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.,顧客の不正な偽装の疑惑の異議のためにこのトランザクションの破棄が発生しました。
@@ -1279,7 +1279,7 @@ A reversal has occurred on this transaction due to your customer triggering a mo
 "A row with this email, website, and finance website combination already exists.",このメール、ウェブサイト、および財務のウェブサイトの組み合わせの行は既に存在します。
 A server error stopped your order from being placed. Please try to place your order again.,サーバーエラーにより、注文が中止されました。 もう一度注文して下さい。
 A shared catalog is linked to this customer group. You must delete the shared catalog before you can delete this customer group.,共有カタログはこの顧客グループにリンクされます。この顧客のグループを削除する前に、共有カタログを削除する必要があります。
-A shipment cannot be created when an order has a status of %1,オーダーのステータスが％1の場合、出荷を作成できません
+A shipment cannot be created when an order has a status of %1,オーダーのステータスが%1の場合、出荷を作成できません
 A shipping selection is not applicable.,配送方法は適用されません。
 A template with this name already exists.,この名前のテンプレートが既に存在します。
 A token with consumer ID %1 does not exist,顧客ID %1 のトークンは存在しません
@@ -1297,7 +1297,7 @@ A total of %1 source(s) already disabled.,合計%1個の倉庫が既に無効に
 A total of %1 source(s) already enabled.,合計%1個の倉庫が既に有効になっています。
 A total of %1 source(s) have been disabled.,合計%1個の倉庫が無効になりました。
 A total of %1 source(s) have been enabled.,合計%1個の倉庫が有効になっています。
-A total of %1 synonym group(s) have been deleted.,合計％1の同義語グループが削除されました。
+A total of %1 synonym group(s) have been deleted.,合計%1の同義語グループが削除されました。
 A user or a team cannot be moved under its child user or team.,ユーザーまたはチームは、その子ユーザーまたはその子チームの下には移動できません。
 A user or a team cannot be moved under itself.,ユーザーまたはチームは、それ自身の下には移動できません。
 A user with the same user name or email already exists.,同じユーザー名かメールアドレスをお持ちのユーザーが既に存在します。
@@ -7817,7 +7817,7 @@ Online Refunds,オンライン返金
 Only %1 left,%1のみ残っています
 Only %1 wish list(s) can be created.,%1 のほしい物リストのみ作成できます。
 Only %1%2%3 left in stock,%1%2%3 在庫が残っています
-"Only <span id=""%1_max_allowed"">%2</span> in stock","在庫の<span id = ""％1_max_allowed "">%2</ span>のみ"
+"Only <span id=""%1_max_allowed"">%2</span> in stock","在庫の<span id = ""%1_max_allowed "">%2</ span>のみ"
 Only 1 shipping assignment can be set,出荷割り当ては1つしか設定できません
 Only Children,子要素のみ
 Only customers who have an account for a store view will receive emails related to that store view.,ストアビューのアカウントを持っている顧客のみが、そのストアビューに関連するメールを受信します。
@@ -11887,7 +11887,7 @@ The maximum file name length is %1 characters.,ファイル名の最大長は%1�
 The maximum file name length is 20 characters. The only special symbols that are allowed in the file name are: dash and underscore. Row ID: %fieldName = %fieldValue,最長のファイル名の長さは20文字です。 ファイル名に使用できる特殊記号はダッシュとアンダースコアのみです。 行ID: %fieldName = %fieldValue
 The maximum generated code length is 255. Please correct your settings.,生成される最大コード長は255です。設定を修正してください。
 The maximum number of child authorizations is reached.,子の権限最大数に達しました。
-The maximum quantity can't be more than %1 when shipping to multiple addresses. Change the quantity and try again.,複数の住所に配送する場合、最大数は％1を超えてはいけません。 数量を変更して再度お試しください。
+The maximum quantity can't be more than %1 when shipping to multiple addresses. Change the quantity and try again.,複数の住所に配送する場合、最大数は%1を超えてはいけません。 数量を変更して再度お試しください。
 The maximum you may purchase is %1.,最大購入可能数量は %1 です。
 The merchant account is not yet verified.,マーチャントアカウントは確認されておりません。
 The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.,商品はUS外のアカウントを持っており引き落としの方法を持っておりません。
@@ -12219,7 +12219,7 @@ The synonym group has been deleted.,同義語グループが削除されまし�
 The system attribute can't be deleted.,システムの属性は削除できません。
 The system report has been deleted.,システムレポートが削除されました。
 The system report has been generated.,システムレポートが生成されました。
-"The Table Rates File Format is incorrect in row number ""%1"". Verify the format and try again.","行番号 ""％1"" の料金表のファイル形式が正しくありません。形式を確認して再度お試し下さい。"
+"The Table Rates File Format is incorrect in row number ""%1"". Verify the format and try again.","行番号 ""%1"" の料金表のファイル形式が正しくありません。形式を確認して再度お試し下さい。"
 The Table Rates File Format is incorrect. Verify the format and try again.,料金表のファイル形式が正しくありません。形式を確認して再度お試し下さい。
 The target_folder parameter is required.,target_folder パラメーターが必要です。
 The tax rate can't be removed because it exists in a tax rule.,税率が税ルール内に存在するため、削除できません。
@@ -13501,7 +13501,7 @@ View Details,詳細を表示
 View for all company,すべての会社の表示
 View for subordinates,部下の表示
 View Full Size,フルサイズで表示
-View Gift Registry %1,ギフトレジストリ％1を表示
+View Gift Registry %1,ギフトレジストリ%1を表示
 View Invitation for %1 (ID: %2),%1 の招待状を表示する（ID： %2）
 View Memo,メモを表示
 View Memo for #%1,#%1 のメモを表示
@@ -13891,11 +13891,11 @@ We couldn't share the registry.,レジストリを共有できませんでした
 We couldn't update the gift registry.,ギフトレジストリを更新できませんでした。
 "We couldn't write file ""%1"" to ""%2"" with the ""%3"" driver.","""%3"" ドライバを使用してファイル ""%1"" を ""%2"" に書き込むことができませんでした。"
 We couldn’t add your wish list items to your gift registry.,ほしい物リストアイテムをギフトレジストリに追加できませんでした。
-We did not send %1 invitation(s) addressed to current customers.,現在の顧客宛の％1の招待状を送信しませんでした。
+We did not send %1 invitation(s) addressed to current customers.,現在の顧客宛の%1の招待状を送信しませんでした。
 We did not upload your image.,イメージはアップロードされませんでした。
 We discarded %1 invitation(s) addressed to current customers.,現在の顧客宛の %1 の招待状を破棄しました。
 We discarded %1 of %2 invitations.,%2 の招待状のうち %1 を破棄しました。
-"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","要求された数量の ""%1"" がないため、残りの％2は取り寄せをおこないます。"
+"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","要求された数量の ""%1"" がないため、残りの%2は取り寄せをおこないます。"
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","要求された""%1""数在庫がありませんでした, ですが残りの%2は取り寄せをおこないます。"
 "We don't have as many ""%1"" as you requested.","要求された""%1""数在庫がありませんでした。"
 We don't have as many of some products as you want.,注文された量の商品がありません。
@@ -13939,7 +13939,7 @@ We found some problems with the data.,データに問題をみつけました
 We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).,DHLメソッド%1を、換金レート%2(基本通貨)が見つからなかったのでスキップしました
 We have archived the order.,注文をアーカイブしました。
 We have nothing to add to this gift registry.,このギフトレジストリに追加するものは何もありません。
-We have received a request to change the following information associated with your account at %store_name: %changes.,お客様のアカウントに関連付けられている以下の情報 ％store_name を変更するリクエストを受け取りました: %changes 。
+We have received a request to change the following information associated with your account at %store_name: %changes.,お客様のアカウントに関連付けられている以下の情報 %store_name を変更するリクエストを受け取りました: %changes 。
 "We have received a request to change the following information associated with your account at %store_name: email, password.",お客様のアカウントに関連付けられている以下の情報を %store_name: email、passwordに変更するリクエストを受け取りました。
 We have received a request to change the following information associated with your account at %store_name: email.,お客様のアカウントに関連付けられている以下の情報を %store_name: emailで変更するリクエストを受け取りました。
 We have received a request to change the following information associated with your account at %store_name: password.,お客様のアカウントに関連付けられている以下の情報を %store_name: passwordに変更するリクエストを受け取りました。
@@ -14226,7 +14226,7 @@ You can check your coupons at sales rule page,セールスルールページで�
 You can create a rule only to the existing categories.,既存のカテゴリにのみルールを作成できます。
 You can create an account after checkout.,ご購入後にアカウントを作成できます。
 You can create orders only in an active store.,アクティブなストアでのみ受注を登録することができます。
-You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.,<a href='%account_url'>％store_name </a>に自分のギフトレジストリを作成し、それを友人や家族と共有することができます。
+You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.,<a href='%account_url'>%store_name </a>に自分のギフトレジストリを作成し、それを友人や家族と共有することができます。
 "You can create your own gift registry on <a href=""%account_url"">%store_name</a> and share it with friends and family.","<a href=""%account_url"">%store_name </a>に自分のギフトレジストリを作成し、それを友人や家族と共有することができます。"
 "You can find and edit rule label and descriptions, per store view, in email templates.",メールテンプレートで、ストアビューごとにルールのラベルと説明を検索および編集できます。
 You can leave this box blank if you don't want to add a gift message for the item.,この商品にギフトメッセージを残したくない場合は空欄にしておくことができます。
@@ -14643,7 +14643,7 @@ the company's shared resources will be available for you.","あなたは社員�
     アカウントを入力すると、
     社内の共有リソースが利用可能になります。"
 You've been linked to a company,会社にリンクされました
-You've been sent a gift card for use at %store_name and it is now ready to be used for purchases.,％store_nameで使用するギフトカードが送信されました。これで、購入の際利用できるようになりました。
+You've been sent a gift card for use at %store_name and it is now ready to be used for purchases.,%store_nameで使用するギフトカードが送信されました。これで、購入の際利用できるようになりました。
 You've been sent a gift from %store_name,%store_name からギフトが送信されました
 "You've made changes into the shared catalog. If you leave this page now, the changes will be lost.",共有カタログを変更しました。 今すぐこのページを離れると、変更内容は失われます。
 You've met your limit of %1 sends in an hour.,1時間に%1件以上のメールを送信することはできません
