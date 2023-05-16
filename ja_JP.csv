@@ -1,4 +1,4 @@
-﻿"
+"
                                     Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).
                                 ","
                                     許可される値: ""paypal"", ""primary"" (デフォルト), your_custom_value (あなたのマーチャントアカウントプロフィールのカスタムペイメントページスタイル).
@@ -990,6 +990,7 @@ Validation Failed: ' .,'検証に失敗しました：' .
 "<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.","これらの通知から<a href=""%unsubscription_url"">登録解除</a>する。"
 "<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">PayPalを通しての支払いの受付開始</a>"
 "<a href=""https://docs.magento.com/m2/ce/user_guide/catalog/search-elasticsearch.html"">Learn more</a> about valid syntax.","利用できる設定値については <a href=""https://docs.magento.com/m2/ce/user_guide/catalog/search-elasticsearch.html"">こちら</a>"
+"<a href=""https://docs.magento.com/user-guide/catalog/search-elasticsearch.html"">Learn more</a> about valid syntax.","利用できる設定値については <a href=""https://docs.magento.com/user-guide/catalog/search-elasticsearch.html"">こちら</a>"
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
 from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
@@ -5517,7 +5518,14 @@ From,From
                         For more details, see the official documentation
                         <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/v3#interpreting_the_score"">Interpreting the score</a>.","0.0から1.0の間で、1.0が良い相互作用を示す可能性が高く、0.0がボットである可能性が高い<br />
                         詳しくは、公式ドキュメントを参照してください
-                        <aターゲット=""_blank "" href=""https://developers.google.com/recaptcha/docs/v3#interpreting_the_score "">スコアの解釈</a>。"
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/v3#interpreting_the_score"">スコアの解釈</a>。"
+"
+                        From 0.0 to 1.0, where 1.0 is very likely a good interaction, and 0.0 is very likely a bot.<br />
+                        For more details, see the official documentation
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/v3#interpreting_the_score"">Interpreting the score</a>.
+                ","0.0から1.0の間で、1.0が良い相互作用を示す可能性が高く、0.0がボットである可能性が高い。<br />
+                        詳しくは、公式ドキュメントを参照してください
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/v3#interpreting_the_score"">スコアの解釈</a>。"
 From Name,送信者
 from their assigned text fields and adding a basic text editor as replacement.,を割り当て、置き換えとして基本テキストエディタを追加します。
 From:,From:
@@ -5976,10 +5984,10 @@ please contact the company Admin at %company_admin_email.","これが間違い�
 "If this is a mistake, please contact the seller.",これが間違いであれば、販売業者にお問い合わせ下さい。
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.",このオプションが有効化されると、顧客はPayPalのウェブサイトにて配送先住所と配送方法を変更できます。実環境ではHTTPSプロトコルを通してのみ可能です。
 "If this value is empty, the node or page name will be used.",この値が空白の場合、ノードかページ名が使用されます。（日本語は正しく処理されません）
-"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","あなたが登録済みVAT顧客の場合は;<a href=""%1"">ここをクリック</a>して正しいVAT計算のために請求先住所を入力してください。"
-"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","あなたが登録済みVAT顧客の場合は、 <a href=""%1"">ここをクリック</a>して正しいVAT計算のために送り先住所を入力してください。"
-"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","あなたが登録済みVAT顧客の場合は;<a href=""%1"">ここ</a>をクリックして正しいVAT計算のために請求先住所を入力してください。"
-"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","あなたが登録済みVAT顧客の場合は、 <a href=""%1"">ここ</a>をクリックして正しいVAT計算のために送り先住所を入力してください。"
+"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","あなたが登録済み VAT 顧客の場合は、<a href=""%1"">ここをクリック</a>して、正しく VAT の計算をするために請求先住所を入力してください。"
+"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","あなたが登録済み VAT 顧客の場合は、 <a href=""%1"">ここをクリック</a>して、正しく VAT の計算をするために配送先住所を入力してください。"
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","あなたが登録済み VAT 顧客の場合は、<a href=""%1"">ここ</a>をクリックして、正しく VAT の計算をするために請求先住所を入力してください。"
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","あなたが登録済み VAT 顧客の場合は、 <a href=""%1"">ここ</a>をクリックして、正しく VAT の計算をするために配送先住所を入力してください。"
 if you are not redirected automatically.,自動的にリダイレクトされない場合。
 If you believe it is the right one you can ignore this notice.,ご入力された内容が正しい場合は、このメッセージを無視してください。
 "If you believe this is an error, please contact us at %1",エラーであれば、%1で我々に連絡願います。
@@ -7864,7 +7872,11 @@ Option values are not specified.,オプション値は指定されていませ�
 Optional,オプション
 "Optional. Forces the widget to render in a specific language. Auto-detects the user's language if unspecified. See
                         <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/language"">supported Language Codes</a>.","オプションです。ウィジェットを特定の言語で強制的にレンダリングします。指定されていない場合に、ユーザーの言語を自動検出します。参照
-                        <aターゲット=""_blank "" href=""https://developers.google.com/recaptcha/docs/language"">サポートされている言語コード</a>。"
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/language"">サポートされている言語コード</a>。"
+"
+                        Optional. Forces the widget to render in a specific language. Auto-detects the user's language if unspecified. See
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/language"">supported Language Codes</a>.
+                ","オプションです。ウィジェットを特定の言語で強制的にレンダリングします。指定されていない場合に、ユーザーの言語を自動検出します。<a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/language"">サポートされている言語コード</a>を参照してください。"
 options,オプション
 Options,オプション
 Options Details,オプションの概要
@@ -8142,8 +8154,6 @@ Path,パス
 "Path ""%1"" is not part of allowed directory ""%2""","パス ""%1"" は ""%2"" の許可されたディレクトリの1つではありません"
 "Path ""%value%"" is not available and cannot be used.","パス ""%value%"" は利用できません。"
 "Path ""%value%"" is protected and cannot be used.","パス ""%value%"" は保護されていて使用できません。"
-"Path ""%value%"" may not include parent directory traversal (""../"", "".."").","パス ""%value%"" に親ディレクトリトラバーサル (""../"", "".."") を含めることはできません。"
-"Path ""%value%"" may not include parent directory traversal (""../"", ""..\).""",パス「%value%」に親ディレクトリトラバーサル(「../」、「..\」)を含めることはできません。
 Paths file already exists,パスファイルは既に存在します
 Paths file cannot be created,パスファイルを作成できません
 Pause,ポーズ
@@ -11535,8 +11545,6 @@ The attribute no longer exists.,属性は存在しません。
 The attribute option label is empty. Enter the value and try again.,属性オプションラベルが空です。値を入力して、もう一度やり直してください。
 The attribute set couldn't be created because it's based on a non-existing attribute set.,存在しない属性セットに基づいているため、属性セットを作成できませんでした。
 The attribute set couldn't be created because it's based on a non-product attribute set.,商品でない属性セットに基づいているため、属性セットを作成できませんでした。
-"The attribute set couldn't be deleted due to an error. Try again ? if the error persists, please try again later.",エラーのため属性セットを削除できませんでした。 エラーが解決しない場合は、後でもう一度お試しください。
-"The attribute set couldn't be deleted due to an error. Try again ? if the error persists, please try again later.",エラーのため属性セットを削除できませんでした。 エラーが解決しない場合は、後でもう一度お試しください。
 "The attribute set couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.",エラーのため属性セットを保存できませんでした。 情報を確認して、再度お試し下さい。 エラーが解決しない場合は、後でもう一度お試しください。
 The attribute set has been removed.,属性セットを削除しました。
 The attribute set ID is incorrect. Verify the ID and try again.,属性セットIDが正しくありません。IDを確認して再度お試し下さい。
@@ -13320,6 +13328,10 @@ Use system value,システム値を使用
 "Use the ""Manual Selection"" option on a multi-website setup that has ""Share Customer Accounts"" enabled globally.
                             If set to ""Manual Selection"", the ""Login as Customer"" admin can select a Store after logging in.","「顧客アカウントを共有」がグローバルに有効になっているマルチWebサイト設定で、「手動選択」オプションを使用します。
                             「手動選択」に設定した場合、「顧客としてログイン」管理者はログイン後にストアを選択できます。"
+"
+                            Use the ""Manual Selection"" option on a multi-website setup that has ""Share Customer Accounts"" enabled globally.
+                            If set to ""Manual Selection"", the ""Login as Customer"" admin can select a Store after logging in.
+                        ","「顧客アカウントを共有」がグローバル設定で有効な場合のマルチサイト運用時は、「手動選択」 を使用してください。「手動選択」がセットされている場合、「顧客としてログイン」を行う管理者はログイン後にストアビューを選択できます。"
 Use the gift registry shipping address,ギフトレジストリの配送先住所を使用する
 Use the parent node hierarchy.,親ノード階層を使用します。
 Use this field to change company's shared catalog,会社の共有カタログを変更するにはこのフィールドを使用して下さい
@@ -14918,7 +14930,6 @@ Media asset file %path does not exist!,メディアアセットファイル %pat
 "Could not create rendition for image, unsupported file type: %path.",画像のレンディションを作成できませんでした。サポートされていないファイルタイプ：%path。
 Cannot create directory for rendition %path,レンディション %path のディレクトリを作成できません
 Incorrect rendition path provided for update: %path,更新用に指定されたレンディションパスが正しくありません：%path
-"Path ""%value%"" may not include parent directory traversal (""../"", ""..\).""",パス「%value%」に親ディレクトリトラバーサル(「../」、「..\」)を含めることはできません。
 The multiple wishlist configuration is currently disabled.,複数のほしい物リスト設定は現在無効になっています。
 The destination wishlist was not found.,宛先のほしい物リストが見つかりませんでした。
 The source wishlist was not found.,ソースほしい物リストが見つかりませんでした。
@@ -14980,7 +14991,8 @@ RMA is disabled.,RMAが無効です。
 You cannot return,戻ることはできません
 You cannot return less than 1 product.,1つ未満の製品は返送できません。
 The coupon code has been removed.,クーポンコードは削除されました。
-"For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir.",タイプ「ローカルサーバー」では、Magentoのインストールに対する相対パス（var/export、var/import、var/export/some/dirなど）を使用します。リモートストレージが構成されている場合は、import_export/export 、import_export/import 、import_export/export /some/dirなどのパスを使用します。
+"For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir.",タイプ「ローカルサーバー」では、Magentoのインストールに対する相対パス（var/export、var/import、var/export/some/dirなど）を使用します。リモートストレージが構成されている場合は、import_export/export 、import_export/import 、import_export/export/some/dirなどのパスを使用します。
+"For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir.",タイプ「ローカルサーバー」では、Magentoのインストールに対する相対パス（var/export、var/import、var/export/some/dirなど）を使用します。リモートストレージが構成されている場合は、import_export/export 、import_export/import 、import_export/export/some/dirなどのパスを使用します。
 "example: ""/media/sitemap/"" for base path (path must be writeable)",例：「/media/sitemap/」 （パスは書き込み可能である必要があります）
 Requested store is not found (%1),要求されたストアが見つかりません(%1)
 "Theme not found: ""%1"".","テーマが見つかりません：""%1""。"
@@ -15150,7 +15162,6 @@ Created and requires payment details after Approval (to Buyer),作成済み、�
 "Approved, requires payment details (to Buyer)",承認済、支払詳細が必要（購入者）
 "We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","この機能の不正使用を防ぐため、<a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA ソリューション</a>を有効にし、「友達にメール」を有効にすることを強くお勧めします。"
 System Messages,システムメッセージ
-"Path ""%value%"" may not include parent directory traversal (""../"", ""..\).""","パス""%value% ""に親ディレクトリトラバーサル(""../""、""..\)を含めることはできません。"""
 " after which time you can’t order the items in the quote. After the expiration,
     you’ll have to negotiate the price with the seller again."," その期間を過ぎると、見積書のアイテムを注文することができません。期限が切れた後は
     もう一度出品者と価格交渉をする必要があります。"
@@ -15368,6 +15379,7 @@ Stock Sources,倉庫の在庫
 Customers and Addresses (single file),顧客の住所録
 Customers Main File,顧客のメインファイル
 Customers Address,顧客の住所
+Customer Addresses,顧客の住所
 Content Staging,コンテンツステージング
 Customer Engagement,カスタマーエンゲージメント
 No Payment Information Required,支払い情報は不要
@@ -15611,7 +15623,6 @@ Store not found,ストアが見つかりません
 Partial Match,部分一致
 Prefix Match,前方一致
 Full Match,完全一致
-"The attribute set couldn't be deleted due to an error. Try again ? if the error persists, please try again later.",エラーが発生したため、属性セットを削除できませんでした。再度お試し下さい。エラーが解決しない場合は、後でやり直してください。
 Google Analytics4,Google アナリティクス 4
 Are code not set,コードが設定されていません
 Associated to %1 stocks,%1 在庫に関連付け
@@ -15620,7 +15631,6 @@ Associated to %1 stocks,%1 在庫に関連付け
 "Save customer id = %1, email = %2, ",顧客 ID = %1、メール = %2 を保存
 "Quote id = %1, Item sku = %2, Old qty = %3 has been set to %4 for customer id %5, email %6, ",見積もり ID = %1、商品 SKU = %2、古い数量 = %3 が顧客 ID %5、メール %6 に対して %4 に設定されています。
 "Logged out from the customer account: id = %1, email = %2, ",顧客アカウントからログアウト済み : id = %1、メール = %2、
-"Path ""%value%"" may not include parent directory traversal (""../"", ""..\).""","パス""%value% ""に親ディレクトリトラバーサル (""../"", ""..\) を含めることはできません。"""
 "Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber_data.unsubscription_link}}"">
                         {{var subscriber_data.unsubscription_link}}</a>","購読解除するにはこのリンクを辿って下さい <!-- This tag is for unsubscribe link  --><a href={{var subscriber_data.unsubscription_link}}"">"
 "                        {{var subscriber_data.unsubscription_link}}</a>""",
@@ -15682,3 +15692,8 @@ Enable for Wishlist Sharing,ほしい物リスト共有用に有効化
 Additionally Show Order Total Without Tax,さらに税抜きの注文合計を表示
 "Require email confirmation if email has been changed","メールアドレスが変更された場合、メールによる確認を必須にする"
 "Disabling inventory check skips pre validation of cart item data.","無効にすると、カート内の商品に対する在庫チェックをスキップします。"
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.' 'If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","あなたが登録済みVAT顧客の場合は、<a href=""%1""> ここ </a> をクリックして、正しく VAT の計算をするために配送先住所を入力してください'。 'あなたが登録済みVAT顧客の場合は、<a href=""%1""> ここ </a> をクリックして、正しく VAT の計算をするために請求先住所を入力してください。"
+"The attribute set couldn't be deleted due to an error. Try again — if the error persists, please try again later.","エラーが発生したため、属性セットを削除できませんでした。再度お試し下さい — エラーが解決しない場合は、後でやり直してください。"
+"'Validation Failed: ' .","'検証に失敗しました：' ."
+"Path ""%value%"" may not include parent directory traversal (""../"", ""..\").","パス""%value% ""に親ディレクトリトラバーサル (""../"", ""..\") を含めることはできません。"
+"Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes — Page Builder can be selected as the “input type” to design layouts and create content.","ページレイアウトのデザイン、Magento コンテンツ (商品およびカテゴリデータ、CMS コンテンツおよびブロック) の追加、テキストの書式設定を行うための高度なツールが含まれています。<br /><br /> 製品属性の場合 : ページビルダーを「入力タイプ」として選択して、レイアウトのデザインやコンテンツの作成を行うことができます。"
