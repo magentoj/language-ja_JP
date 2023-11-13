@@ -269,24 +269,24 @@ Auto-redirect to Base URL"""
                     アメリカンエクスプレスカードをサポートするには追加の合意が必須です。 ここで <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>ご確認ください。
                 "
 "
-
+                        
                         <p>Parallax Speed controls how the background will behave when page is scrolled.</p>
                         <p>Negative values will make the background scroll in the reverse direction.</p>
                         <p>Values from 0 to 1 will cause the scroll to be slower than the scroll speed of the window, values from 1 to 2 will be faster.</p>
                         <p>0 - Fixes the background to the window (e.g. no scrolling).</p>
                         <p>1 - Background will scroll at the same speed as the window.</p>
-
+                        
                     ","
-
+                        
                         <p>視差速度は、ページをスクロールしたときの背景の動作を制御します。</p>
                         <p>負の値を指定すると、背景が逆方向にスクロールします。</p>
                         <p>0 〜 1の値を指定すると、スクロールはウィンドウのスクロール速度より遅くなり、1 〜 2の値は速くなります。</p>
                         <p>0 - ウィンドウの背景を固定します（スクロールなしなど）。</p>
                         <p>1 - 背景はウィンドウと同じ速度でスクロールします。</p>
-
+                        
                     "
 "
-
+                            
                                 <p>The products displayed may vary from this total due to several factors, including but not limited to:</p>
                                 <ul>
                                     <li>Disabled status</li>
@@ -294,9 +294,9 @@ Auto-redirect to Base URL"""
                                     <li>Stock availability (out of stock)</li>
                                     <li>Website assignment</li>
                                 </ul>
-
+                            
                         ","
-
+                            
                                 <p>表示される商品は、以下を含むが制限されないいくつかの要因により、この合計と異なる場合があります。</p>
                                 <ul>
                                     <li>無効状態</li>
@@ -304,7 +304,7 @@ Auto-redirect to Base URL"""
                                     <li>在庫あり（在庫なし）</li>
                                     <li>Webサイトの割り当て</li>
                                 </ul>
-
+                            
                         "
 "
                                 Maximum 255 characters are allowed.
@@ -566,14 +566,14 @@ dotmailer Email Marketing Automation。 Magento 2.2.2に含まれており、簡
                 ","
                         使用可能数はログインしている顧客にのみ適用されます。
                 "
- ,
+ , 
     All Store Views,    すべてのストアビュー
  - deleted, - 削除済み
  - deleted from catalog, - カタログから削除済
  - Duplicated, - 複製
  - removed, - 削除済
  (disabled), (無効)
- (free , (空き
+ (free , (空き 
  (no data), (データがありません)
  [deleted], [削除済]
 " after which time it will be reset to its default expiration period. To extend the
@@ -584,16 +584,16 @@ dotmailer Email Marketing Automation。 Magento 2.2.2に含まれており、簡
     販売者との価格交渉をもう一度行う必要があります。"
  Comment, コメント
  Copy,コピー
- Example: , 例:
- expires on , で期限切れ
- for more information or , いただくか、もしくは右のアドレスに
+ Example: , 例: 
+ expires on , で期限切れ 
+ for more information or , いただくか、もしくは右のアドレスに 
  has been declined by the seller., 販売者に拒否されました。
  if you are not redirected automatically.,自動的にリダイレクトされない場合。
  is not available. You still can process offline actions., はできません。オフラインでの作業は処理することができます。
  is required., は必須です。
  item, 商品
  items, 商品
- of , /
+ of , / 
  product(s) require(s) your attention., 商品に注意が必要です。
  submitted by buyer, 購入者による送信
  to learn more., 詳細は。
@@ -773,7 +773,7 @@ Validation Failed: ' .,'検証に失敗しました：' .
 [%1 years ago],[%1 年前]
 [deleted],[削除済]
 [GLOBAL],[グローバル]
-[ID: %1] ,[ID:%1]
+[ID: %1] ,[ID:%1] 
 [ID: %value] %message,[ID:%value] %message
 [ID: %value] The Source does not exist.,[ID:%value] 倉庫が存在しません。
 [ID: %value] The Stock does not exist.,[ID:%value] 在庫が存在しません。
@@ -794,7 +794,7 @@ Validation Failed: ' .,'検証に失敗しました：' .
 * View and edit company profile in Admin Panel,* 管理画面における会社概要の表示と編集
 * View and manage company quotes in Admin Panel,* 管理画面における会社の見積もりの表示と管理
 * Your latest changes on the company profile have not been saved yet.,*会社概要の最新の変更はまだ保存されていません。
-\\\\ ,\\\\
+\\\\ ,\\\\ 
 "&copy; Magento Commerce Inc., %1","&copy; Magento Commerce Inc., %1"
 &nbsp;,&nbsp;
 #,#
@@ -1718,7 +1718,7 @@ Algorithm which provides Source Selections based on shipping address distance fr
 Alignment,整列
 All,すべて
 ALL,すべて
-All ,すべて
+All ,すべて 
 All Admin Events,すべての管理イベント
 All Allowed Countries,すべての許可された国
 All Buttons are same size,すべてのボタンが同じサイズです
@@ -2206,7 +2206,7 @@ Art and Design,アートとデザイン
 As low as,同じかそれ以下
 As Low as,同じかそれ以下
 As low as:,同じかそれ以下:
-As low as: ,同じかそれ以下:
+As low as: ,同じかそれ以下: 
 ASCII,ASCII
 Ask Customer,顧客に相談
 Asset,アセット
@@ -2280,7 +2280,7 @@ Attribute group that contains system attributes can not be deleted,システム�
 "Attribute group with same code already exist. Please rename ""%1"" group","同じコードの属性グループは既に存在します。""%1"" グループの名前を変更してください。"
 Attribute Information,属性情報
 Attribute Label,属性ラベル
-Attribute label: ,属性ラベル：
+Attribute label: ,属性ラベル： 
 Attribute Model,属性モデル
 Attribute object is undefined,属性オブジェクトが未定義です
 Attribute Properties,属性のプロパティ
@@ -2364,7 +2364,7 @@ Available,利用可能
 Available APIs,有効な API
 Available Balance,残高
 Available Credit,利用可能なクレジット
-Available Credit ,利用可能なクレジット
+Available Credit ,利用可能なクレジット 
 Available Credit:,利用可能なクレジット:
 Available Payment Methods,利用可能なお支払い方法
 Available Product Listing Sort By,利用可能な商品リスト表示順
@@ -2422,7 +2422,7 @@ Backorders are disabled,バックオーダーは無効です
 Backup,バックアップ
 Backup functionality is disabled,バックアップ機能は停止中です
 Backup ID:,バックエンド ID:
-Backup ID: ,バックエンド ID:
+Backup ID: ,バックエンド ID: 
 Backup Log Details,バックアップログの詳細
 Backup Name,バックアップ名
 Backup options,バックアップオプション
@@ -2503,7 +2503,7 @@ Begin data validation,データ検証開始
 Begin export of %1,%1のエクスポートを開始
 "Begin import of ""%1"" with ""%2"" behavior","""%1""のインポートを""%2""挙動で開始"
 Belongs to,属する
-Belongs to ,属する
+Belongs to ,属する 
 Best Sellers Report,ベストセラーレポート
 Bestsellers,ベストセラー
 Bestsellers Report,ベストセラーレポート
@@ -2517,11 +2517,11 @@ Billing address errors,請求先住所のエラー
 Billing address format is invalid.,請求先住所のフォーマットが無効です。
 Billing address is not defined for instance purchase.,請求先住所はインスタンス購入のために定義されていません。
 Billing Address with ID: %s doesn't exist,ID: %s の請求先住所は存在しません
-Billing Address:,請求先住所:
-Billing Address: ,請求先住所:
+Billing Address:,請求先住所: 
+Billing Address: ,請求先住所: 
 Billing Agreement,支払合意
 Billing Agreement #,支払合意 #
-Billing Agreement # ,支払契約 #
+Billing Agreement # ,支払契約 # 
 Billing Agreement # %1,支払契約 # %1
 Billing Agreement #%1,支払契約 #%1
 Billing Agreement Signup,支払契約サインアップ
@@ -2616,7 +2616,7 @@ Buy %1 for %2 each and,%2の%1をそれぞれ購入し
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","%2の%1をそれぞれ購入し <span class=""percent tier-%3"">&nbsp;%4</span>%<strong class=""benefit"">セーブ</strong>しましょう。"
 Buy %1 for price %2,%2 の値段で %1が購入できます
 Buy %1 for:,%1を購入:
-Buy %1 for: ,%1を購入:
+Buy %1 for: ,%1を購入: 
 Buy %1 with %2 discount each,%1 を %2 の各割引で購入
 Buy Credits,クレジットを購入
 Buy Now,今すぐ購入する
@@ -2657,7 +2657,7 @@ Cache Storage Management,キャッシュストレージ管理
 Cache Type,キャッシュタイプ
 Cache Types Management,キャッシュの種類の管理
 Cache types: %1,キャッシュの種類：%1
-Cache types: %1 ,キャッシュの種類：%1
+Cache types: %1 ,キャッシュの種類：%1 
 Cache User Defined Attributes,キャッシュユーザ定義属性
 Caching Application,キャッシングアプリケーション
 Caching Settings,キャッシュ設定
@@ -2677,9 +2677,9 @@ Campaign/Promo Name,キャンペーン・プロモーション名
                       it will make no affect on Price filter.","カタログ入力タイプがはい / いいえ、ドロップダウン、複数選択、価格の場合のみ使用可能です。
                      <br>価格は<b>「フィルター可能(結果なし)」</b>オプションとは互換性がありません。価格フィルターには影響を及ぼしません。"
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option -
+                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
                      it will make no affect on Price filter.","カタログ入力タイプがはい / いいえ、ドロップダウン、複数選択、価格の場合のみ使用可能です。
-                    <br>価格は <b>「フィルター可能(結果なし)」</b> オプションと互換性がありません -
+                    <br>価格は <b>「フィルター可能(結果なし)」</b> オプションと互換性がありません -  
                      価格フィルターには影響しません。"
 Can not be rescheduled,再スケジュールすることはできません
 can not be saved,保存できません
@@ -2925,7 +2925,7 @@ Cart Price Rule Related,カート価格ルール関連
 Cart Price Rules,カート価格ルール
 Cart price rules allows you to setup promotions for items that are in the shopping cart.,カート価格ルールは、ショッピングカートの商品に対してプロモーションを設定することができます。
 Cart Price:,カート価格:
-Cart Price: ,カート価格:
+Cart Price: ,カート価格: 
 Cart rule deleted.,カートルールを削除しました。
 Cart Subtotal,小計
 "Cart with ID ""%1"" already exists.","IDが ""%1"" のカートは既に存在します。"
@@ -2960,7 +2960,7 @@ Catalog Price Rules,カタログ価格ルール
 Catalog price rules allows you to setup promotions for an items in catalog.,カタログ価格のルールは、カタログにおける商品に対してプロモーションを設定することができます。
 Catalog Price Scope,カタログ価格スコープ
 Catalog Price:,カタログ価格:
-Catalog Price: ,カタログ価格:
+Catalog Price: ,カタログ価格: 
 Catalog Prices,カタログ価格
 "Catalog prices have changed, and you may want to review the offer. Details about the changes are available in the History Log.",カタログ価格が変更されたため、オファーを確認してください。 変更の詳細は履歴ログで確認できます。
 Catalog prices have changed. You may want to re-submit this quote. Details about the changes are available in the History Log.,カタログ価格が変更されました。この見積もりを再送信して下さい。 変更の詳細は履歴ログで確認できます。
@@ -3199,7 +3199,7 @@ Code Dump,コードダンプ
 Code Format,コードフォーマット
 Code Length,コード長さ
 Code Pool used:,使用されたコードプール:
-Code Pool used: ,コードプール使用率:
+Code Pool used: ,コードプール使用率: 
 "Code Pool used: <b>%1%</b> (free <b>%2</b> of <b>%3</b> total). Generate new code pool <a href=""#"" data-post=""%4"">here</a>.","コードプール使用率: <b>%1%</b> (合計 <b>%3</b>中<b>%2</b>空き)。新しいコードプールを生成するには<a href=""#"" data-post=""%4"">ここをクリック</a>してください。"
 "Code Pool used: <b>%1%</b> (free <b>%2</b> of <b>%3</b> total). Generate new code pool <a href=""%4"">here</a>.","コードプール使用率: <b>%1%</b> (合計 <b>%3</b>中<b>%2</b>空き)。新しいコードプールを生成するには<a href=""%4"">ここをクリック</a>してください。"
 Code Prefix,コード接頭辞
@@ -3263,7 +3263,7 @@ Company Configuration,会社の構成
 Company Configuration Section,会社設定セクション
 Company Credit,会社クレジット
 Company credit account will be charged:,会社のクレジットアカウントに請求されます:
-Company credit account will be charged: ,会社のクレジットアカウントに請求されます:
+Company credit account will be charged: ,会社のクレジットアカウントに請求されます: 
 Company Credit Change Email Sender,会社クレジット変更メール送信者
 Company Email,会社メール
 Company Email:,会社メール:
@@ -3298,7 +3298,7 @@ Compatible File Extensions,互換性のあるファイル拡張子
 Compatible file extensions to upload,アップロードする互換性のあるファイル拡張子
 Compilation configuration,コンパイルの構成
 Compilation from source:,ソースからのコンパイル:
-Compilation from source: ,ソースからのコンパイル:
+Compilation from source: ,ソースからのコンパイル: 
 Compiled Config,コンパイル済みの設定
 Complaint,異論
 Complete,完了
@@ -3388,7 +3388,7 @@ Consumer Key,コンシューマーキー
 Consumer key has expired,コンシューマーキーは期限が切れました
 Consumer key is not the correct length,コンシューマーキーは正しい長さではありません
 Consumer key/secret will expire if not used within X seconds after Oauth token exchange starts.,コンシューマーキー・シークレット は Oauthトークンの交換が開始されてから X秒以内に使用されない場合、失効します。
-Consumer Secret,コンシューマーシークレット
+Consumer Secret,コンシューマーシークレット 
 Consumer Settings,コンシューマー設定
 Consumer with ID '%1' does not exist.,ID '%1'の顧客は存在しません
 Contact a system administrator or store owner to gain permissions.,権限を得るためには、システム管理者もしくはストアオーナーにお問い合わせください。
@@ -3836,7 +3836,7 @@ Cron,Cron
 Cron (Scheduled Tasks),Cron（スケジュールされたタスク）
 Cron (Scheduled Tasks) - all the times are in minutes,Cron（タスク予約） - 各時間は分単位
 Cron configuration options for group:,グループ用のCron設定オプション:
-Cron configuration options for group: ,グループ用のCron設定オプション:
+Cron configuration options for group: ,グループ用のCron設定オプション: 
 Cron Expression,Cron式
 Cron Schedules by job code,ジョブコード別のCronスケジュール
 Cron Schedules by status code,ステータスコード別のCronスケジュール
@@ -3866,13 +3866,13 @@ Currency Symbols,通貨記号
 Currency to Points,通貨からポイント
 Currency Update Warnings,通貨更新警報
 Current Balance:,現在の残高:
-Current Balance: ,現在の残高:
+Current Balance: ,現在の残高: 
 Current Configuration Scope:,現在の設定スコープ:
 "Current customer does not have access to the resource ""%1""","現在の顧客はリソース ""%1""にアクセスできません"
 Current customer does not have an active cart.,現在の顧客は有効なカートを持っていません。
 "Current customer does not have permission to address with ID ""%address_id""","現在の顧客には住所ID ""%address_id"" へのアクセス権限がありません"
 Current exchange rates:,現在の換算レート:
-Current implementation not supported this type (%1) of backup.,現在の実装はこのタイプ(%1)のバックアップはサポートされていません。
+Current implementation not supported this type (%1) of backup.,現在の実装はこのタイプ(%1)のバックアップはサポートされていません。 
 Current Modification,現在の編集内容
 Current Month,現在の月
 Current Month Starts,現在の月から開始
@@ -3979,7 +3979,7 @@ Customer has been unlocked successfully.,顧客のロックが解除されまし
 Customer Id,顧客 Id
 Customer ID,顧客ID
 Customer id %1 does not exist.,顧客 id %1 は存在しません。
-"customer id = %1, email = %2, ",顧客id = %1、メール= %2、
+"customer id = %1, email = %2, ",顧客id = %1、メール= %2、 
 Customer Information,顧客情報
 Customer Invitation Email Sender,顧客招待メール送信者
 Customer Invitation Email Template,顧客招待メールテンプレート
@@ -4266,7 +4266,7 @@ Delete a Company?,会社を削除しますか？
 Delete Action,アクションを削除
 Delete address,住所を削除
 Delete Address,住所を削除
-"Delete address with id %1 for customer id = %2, email = %3, ",顧客ID = %2、メール= %3、ID %1のアドレスを削除
+"Delete address with id %1 for customer id = %2, email = %3, ",顧客ID = %2、メール= %3、ID %1のアドレスを削除 
 Delete Amount,額を削除
 Delete assets,アセットを削除
 Delete Attribute,属性を削除
@@ -4432,7 +4432,7 @@ Discount Amount,割引価格
 Discount amount is applied to subtotal and shipping amount separately,小計および配送料に別途割引額が適用されます。
 Discount amount is applied to subtotal only,割引額は小計にのみ適用されます
 Discount amount:,割引価格:
-Discount amount: ,割引価格:
+Discount amount: ,割引価格: 
 Discount Qty Step (Buy X),割引対象個数の段階 (X を買った場合)
 Discount value cannot be outside the range 0-100,割引値は0?100の範囲でなければなりません
 Discount value should be 0 or greater.,割引値は0かそれ以上でなければなりません。
@@ -5180,7 +5180,7 @@ Expires,失効
 expires on,で期限切れ
 Expires on %1,%1で期限切れ
 Expires:,失効:
-Expires: ,失効:
+Expires: ,失効: 
 Expiry Warning Before (days),有効期限切れ前通知 (日)
 Explanation,形式
 Export,エクスポート
@@ -5241,7 +5241,7 @@ Failed to send the package,パッケージを送信できませんでした
 Failed to set ini option display_errors to value 1. %1,Iniオプション display_errors を値1に設定できませんでした。%1
 Failed to set ini option memory_limit to 756M. %1,Iniオプション memory_limit を756Mに設定できませんでした。%1
 Failed to synchronize data to the Magento Business Intelligence service.,データをMagento Business Intelligence サービスと同期できませんでした。
-Failed to synchronize data to the Magento Business Intelligence service. ,データをMagento Business Intelligence サービスと同期できませんでした。
+Failed to synchronize data to the Magento Business Intelligence service. ,データをMagento Business Intelligence サービスと同期できませんでした。 
 Failed to upload file %1 to ftp,ファイル%1をftpにアップロード失敗
 Failed to validate ftp account,ftpアカウントの認証に失敗
 Failed to validate FTP.,FTPの認証に失敗しました。
@@ -5282,7 +5282,7 @@ Female,女性
 Fetch,フェッチ
 Fetch Updates,アップデート取得
 Field,フィールド
-Field ,フィールド
+Field ,フィールド 
 Field '%1' not found,フィールド  '%1' が見つかりません
 Field 2,フィールド 2
 Field 3,フィールド 3
@@ -5464,7 +5464,7 @@ e.g. var/export, var/import, var/export/some/dir"
 "For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","サーバータイプが「ローカルサーバー」の場合、相対パスを使用してください。(例) var/export, var/import, var/export/some/dir"
 For Virtual Quotes Only,仮想見積もりのみ
 For Windows server only.,Windowsサーバーのみ。
-Forbidden extensions has been used. Avoid usage of ,ご利用いただけない拡張子が使用されました。次の拡張子はご使用いただけません
+Forbidden extensions has been used. Avoid usage of ,ご利用いただけない拡張子が使用されました。次の拡張子はご使用いただけません 
 Force Sign-In,強制サインイン
 Forced,強制
 Forgot an Item?,上記の注文でよろしいですか？
@@ -5563,7 +5563,7 @@ Funding,ファンディング
 Future Update already exists in this time range. Set a different range and try again.,この時間帯の次回の更新は既に存在します。違う時間帯を設定して再度お試し下さい。
 Future Update End Time cannot be earlier than current time.,将来の更新終了時刻は、現在の時刻よりも前にすることはできません。
 Future Update End Time cannot be equal or earlier than Start Time.,将来の更新終了時刻は開始時刻と同じかそれより早くすることはできません。
-"Future Update in this time range already exists.
+"Future Update in this time range already exists. 
                             Select a different range to add a new Future Update.",この時間帯の次回の更新は既に存在します。新しい次回の更新を追加するには、別の範囲を選択してください。
 Future Update in this time range already exists. Select a different range to add a new Future Update.,この時間帯の次回の更新は既に存在します。新しい次回の更新を追加するには、別の範囲を選択してください。
 Future Update Start Time cannot be earlier than current time.,将来の更新開始時刻は現在の時刻よりも早くすることはできません。
@@ -5652,7 +5652,7 @@ Gift Card Account General Settings,ギフトカードアカウント全般設定
 Gift card account is not redeemable.,ギフトカードアカウントは有効になっていません。
 Gift Card Accounts,ギフトカードアカウント
 Gift Card amount applied to order:,注文に適用されたギフトカードの金額:
-Gift Card amount applied to order: ,注文に適用されたギフトカードの金額:
+Gift Card amount applied to order: ,注文に適用されたギフトカードの金額: 
 Gift Card Code,ギフトカードコード
 Gift Card Code:,ギフトカードコード:
 Gift Card Code: %code,ギフトカードコード: %code
@@ -5676,7 +5676,7 @@ Gift Card Sender,ギフトカード送信者
 Gift Card Template,ギフトカードテンプレート
 Gift Card Type,ギフトカード種別
 Gift Card:,ギフトカード:
-Gift Card: ,ギフトカード:
+Gift Card: ,ギフトカード: 
 Gift Cards,ギフトカード
 Gift Certificate Payment: purchase of Gift Certificate,ギフト券支払: ギフト券の購入
 Gift Certificate Redemption,ギフト券償還
@@ -5701,7 +5701,7 @@ Gift Messages is not applicable for virtual products,ギフトメッセージは
 Gift options,ギフトオプション
 Gift Options,ギフトオプション
 Gift Options for,ギフトオプション
-Gift Options for ,ギフトオプション
+Gift Options for ,ギフトオプション 
 Gift Options for Individual Items,個別商品に対するギフトオプション
 Gift Options for the Entire Order,全体の注文に対するギフトオプション
 "Gift Order. The street address, city, state, or country of the billing and shipping addresses do not correlate",ギフト注文。請求先住所と配送先住所の住所、市町村、州または国の間には相関がありません
@@ -5846,7 +5846,7 @@ has been rejected by %rejecter_full_name.,は %rejecter_full_name によって�
 Has State/Province,都道府県あり
 Hash has not been saved.,ハッシュが保存されていません
 Have a gift card?,ギフトカードをお持ちですか？
-Have a gift card? ,ギフトカードをお持ちですか？
+Have a gift card? ,ギフトカードをお持ちですか？ 
 "have been deleted from the catalog, so the items quoted list has been updated.",カタログから削除され、商品の見積もりリストが更新されました。
 have been deleted from the catalog. The items quoted list has been updated.,カタログから削除されました。商品の見積もりリストが更新されました。
 have been deleted from the quote. You may want to review the offer amount.,見積もりから削除されました。オファー額を確認して下さい。
@@ -5871,7 +5871,7 @@ Helper arguments should not be used in custom layout updates.,カスタムレイ
 Helper instance cannot be redefined.,ヘルパーインスタンスは再定義できません。
 Helper instance is not defined yet.,ヘルパーインスタンスはまだ定義されていません
 here,ここ
-Here are some sample rules: ,次に、サンプルルールを示します。
+Here are some sample rules: ,次に、サンプルルールを示します。 
 Here are the products you're about to create.,作成しようとしている商品は次のとおりです。
 Hidden,隠し
 Hidden Virtual PayPal Debit Card Transaction,隠し仮想PayPalデビットカードトランザクション
@@ -6063,7 +6063,7 @@ Import Tax Rates,税率をインポート
 Import/Export,インポートとエクスポート
 Import/Export Tax Rates,税率のインポートとエクスポート
 Important:,重要:
-Important: ,重要:
+Important: ,重要: 
 IMPORTANT: Be sure to save your configuration before running generation process.,重要：生成プロセスを実行する前に、設定を保存してください。
 Imported File,インポートされたファイル
 ImportExport: Import Data validation - Validation strategy not found,ImportExport: インポートデータ認証 - 認証ストラテジーが見つかりません
@@ -6209,7 +6209,7 @@ Integration not secure,連携はセキュアではありません
 Integration Tokens for Extensions,エクステンションのためのインテグレーショントークン
 Integration with ID '%1' does not exist.,ID'%1'のインテグレーションは存在しません。
 Integration with ID '%1' doesn't exist.,ID '%1'のインテグレーションは存在しません
-Integration with name '%1' exists.,'%1'という名のインテグレーションが存在します
+Integration with name '%1' exists.,'%1'という名のインテグレーションが存在します 
 Integrations,インテグレーション
 Integrations API Configuration,外部API連携設定
 Integrations API configuration file,インテグレーションAPI設定ファイル
@@ -6561,7 +6561,7 @@ Item ordered qty,オーダーされた商品数量
 Item Price,アイテム価格
 Item qty declaration error,商品量宣言エラー
 Item SKU %1 %2,商品 SKU %1 %2
-Item SKU %1 %2 ,商品 SKU %1 %2
+Item SKU %1 %2 ,商品 SKU %1 %2 
 Item Status,商品状況
 Item totals are not set for the rule.,商品合計はルールのために設定されていない
 items,商品
@@ -6804,7 +6804,7 @@ Log to File,ファイルに記録
 Log to Syslog,Syslogのログ
 Log trace:,ログトレース:
 Logged In,ログイン済み
-"Logged in as customer: id = %1, email = %2, ",次のユーザーとしてログイン：id = %1、メール= %2、
+"Logged in as customer: id = %1, email = %2, ",次のユーザーとしてログイン：id = %1、メール= %2、 
 Logging,ロギング
 Logic,ロジック
 Login,ログイン
@@ -7013,7 +7013,7 @@ Maximum Image Width (px),最大画像横幅 (px)
 Maximum length must be less then %1 characters.,最大長は %1 文字未満でなければなりません。
 Maximum length must be less then %1 symbols,長さは %1 文字以下でなければなりません
 Maximum length of the message is,メッセージの最大長は
-Maximum length of the message is ,メッセージの最大長は
+Maximum length of the message is ,メッセージの最大長は 
 Maximum length of the message is %1 characters.,メッセージの最大長は %1 文字です。
 Maximum length of this field must be equal or less than %1 symbols.,このフィールドの最大は%1と同じかそれ以下です。
 Maximum Login Failures to Lock Out Account,アカウントロックをするログイン失敗回数
@@ -7338,7 +7338,7 @@ Never,なし
 Never (production),停止 (稼働中)
 Never Show,表示しない
 New,新規
-New ,新規
+New ,新規 
 New %1,新しい %1
 New %changes for %user_name,%user_nameの新しい %changes
 New Account,新規アカウント
@@ -7425,7 +7425,7 @@ New Products Images Only Template,新着商品画像のみテンプレート
 New Products List Template,新着商品リストテンプレート
 New Products Names Only Template,新着商品名のみテンプレート
 New quote,新規見積もり
-New quote ,新規見積もり
+New quote ,新規見積もり 
 New Quote Template (to Seller),新しい見積もりのテンプレート（販売者へ）
 New Rating,新しい評価
 New Related Products Rule,新しい関連商品ルール
@@ -7753,7 +7753,7 @@ Number of results (For the last time placed),結果 (最新の結果)
 Number of shopping cart line items %1 %2:,ショッピングカートの広告申込情報の数 %1 %2:
 Number of Shopping Cart Line Items %1 %2:,ショッピングカートの広告申込情報の数 %1 %2:
 Number of SKUs,SKU数
-Number of SKUs: ,SKU数：
+Number of SKUs: ,SKU数： 
 Number of Symbols,文字数
 Number of times Wish Lists have been shared (emailed): %1,ほしい物リストがシェアされた回数 (メール): %1
 Number of top search results to cache,キャッシュする上位検索結果の数
@@ -7761,7 +7761,7 @@ Number of Unsuccessful Attempts to Login,ログイン失敗回数
 Number of Uses,利用回数
 Number of Wish List conversions: %1,ほしい物リストコンバージョン数: %1
 Number of wish list items %1 %2,欲しいものリストアイテムの数 %1 %2
-Number of wish list items %1 %2 ,ほしい物リストアイテムの数 %1 %2
+Number of wish list items %1 %2 ,ほしい物リストアイテムの数 %1 %2 
 Number of Wish List referrals: %1,ほしい物リストが参照された数: %1
 Number of Wish Lists: %1,ほしい物リストの数: %1
 "Numbers (1, 2, 3, ...)","数字 (1, 2, 3, ...)"
@@ -7843,7 +7843,7 @@ Only products matched by rule will be present in the category after save. Unmatc
 "Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","登録済みユーザーのみレビューを書くことができます。<a href=""%1""> ログイン</a> または <a href=""%2""> アカウントを作成</a>してください。"
 "Only single entrance of ""%1"" node is required.","""%1"" ノードの単一のインスタンスだけが必要です。"
 Only the first 100 errors are shown.,最初の100個のエラーのみが表示されます。
-Only the first 100 errors are shown. ,最初の100個のエラーのみが表示されます。
+Only the first 100 errors are shown. ,最初の100個のエラーのみが表示されます。 
 Only the quotes that are currently in status 'Open' can be declined,現在ステータスが「開く」になっている見積もりのみ、拒否することができます
 Only X left Threshold,「X点在庫有り」と表記するしきい値
 Open,オープン
@@ -7889,7 +7889,7 @@ Order,注文
 Order & Account Information,注文とアカウント情報
 Order &amp; Account Information,注文 &amp; アカウント情報
 Order #,注文 #
-Order # ,注文 #
+Order # ,注文 # 
 Order # %1,注文 # %1
 Order # %1 %2 | %3,注文 # %1 %2 | %3
 Order # %1 Notification(s),注文 # %1 お知らせ
@@ -7897,7 +7897,7 @@ Order #%1,注文 #%1
 Order #%1 created at %2,注文 #%1 を %2 にて作成しました
 "Order #%1, creditmemo #%2","注文 #%1, クレジットメモ #%2"
 Order #%1.,注文 #%1.
-Order %1 has been placed with products: ,注文%1は次の商品と共に発注されました：
+Order %1 has been placed with products: ,注文%1は次の商品と共に発注されました： 
 Order %order_id refunded,注文 %order_id は払い戻しました
 Order %order_id reverted,注文 %order_id は元に戻されました。
 Order Address,注文住所
@@ -7980,7 +7980,7 @@ Order total maximum,注文の合計最大数
 Order total minimum,注文の合計最小値
 Order Total Report,注文合計レポート
 Order total will be displayed before you submit the order,注文を提出する前に注文合計が表示されます
-Order Total: ,合計注文額：
+Order Total: ,合計注文額： 
 Order Totals,注文合計
 Order tracking,注文追跡
 Order Updated,注文更新済み
@@ -8049,7 +8049,7 @@ Packages,パッケージ
 Packages Request Type,パッケージリクエストタイプ
 Packaging,包装
 Packing Slip #,配送伝票 #
-Packing Slip # ,配送伝票 #
+Packing Slip # ,配送伝票 # 
 Padded Flat-Rate Envelope,パッド付き定額封筒
 Padding,パディング
 Page,ページ
@@ -8173,7 +8173,7 @@ Payflow Pro,Payflow Pro
 Payflow Pro (Includes Express Checkout),Payflow Pro (エクスプレスチェックアウトを含む)
 Payflow Pro and Express Checkout,Payflow Pro とエクスプレスチェックアウト
 Payment,支払
-Payment ,支払い
+Payment ,支払い 
 Payment &amp; Shipping Information,支払 &amp; 送付情報
 Payment &amp; Shipping Method,支払い &amp; 配送方法
 Payment Action,決済アクション
@@ -8394,7 +8394,7 @@ Placed on %created_at,受付日時 %created_at
 "Placed on <span class=""no-link"">%created_at</span>","受付日時 <span class=""no-link"">%created_at</span>"
 Platinum Partners,プラチナパートナーズ
 Play Only When Visible,表示されている場合にのみ再生
-Please ,プリーズ
+Please ,プリーズ 
 "Please <a href=""%1"">create</a> at least a public shared catalog to proceed.","続行するには、少なくとも公開共有カタログを<a href=""%1"">作成</a> してください。"
 Please accept this invitation to join %store_name.,%store_nameに参加するには、この招待状を受け入れてください。
 Please add invitees.,招待状を追加してください。
@@ -8683,7 +8683,7 @@ Please enter your email.,メールアドレスを入力してください。
 Please feel free to pickup your order now.,商品をお受取り頂く準備ができました。
 "Please fill in Hostname, Port, Path",ホスト名、ポート、パスを入力してください
 Please fill in the values for {section} section.,{section}セクションの値を入力してください。
-Please fill in the values for the section ,セクションに値を入力してください。
+Please fill in the values for the section ,セクションに値を入力してください。 
 Please fill-in correct values.,正しい値を記入してください。
 "Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors","エラーを修正してファイルをアップロードしなおし、""インポート""をクリックしてください"
 Please fix this field.,フィールドの値を修正してください。
@@ -8886,7 +8886,7 @@ Please wait...,しばらくお待ちください...
 "Please, enter valid Credit Card Number",正しいクレジットカード番号を入力してください。
 "Please, enter valid Expiration Date",正しい有効期限を入力してください。
 "Please, fill correct values",正しい値を入力してください、
-"Please, select attribute for the section ",セクションの属性を設定してください。
+"Please, select attribute for the section ",セクションの属性を設定してください。 
 "Please, select attribute(s)",属性を選択してください。
 "Please, select image(s) for your attribute",属性の画像を選択してください。
 "Please, specify attributes",属性を指定してください
@@ -9145,8 +9145,8 @@ Product Reviews,商品レビュー
 Product Reviews Report,商品レビューレポート
 Product Rule Information,商品ルール情報
 Product Salable Quantity,商品販売可能数量
-"Product sku = %1 has been added to wishlist, ",商品 SKU = %1がほしい物リストに追加されました。
-"Product sku = %1, qty = %2 has been added to cart for customer id %3, email %4, ",商品 SKU = %1、数量= %2が顧客ID %3、メール%4のカートに追加されました。
+"Product sku = %1 has been added to wishlist, ",商品 SKU = %1がほしい物リストに追加されました。 
+"Product sku = %1, qty = %2 has been added to cart for customer id %3, email %4, ",商品 SKU = %1、数量= %2が顧客ID %3、メール%4のカートに追加されました。 
 Product SKUs,商品 SKU
 Product Special,特別商品
 Product Stock Options,商品在庫オプション
@@ -9305,7 +9305,7 @@ Purchase order %1 couldn't be rejected.,発注書%1を却下できませんで�
 "Purchase Order <a href=""%purchase_order_view_url"">#%increment_id</a>","発注書<a href=""%purchase_order_view_url"">#%increment_id</a>"
 Purchase Order Approval,発注の承認
 Purchase order cannot be canceled,発注書をキャンセルできません
-Purchase order has been approved by ,発注書は次の人によって承認されました：
+Purchase order has been approved by ,発注書は次の人によって承認されました： 
 Purchase order has been successfully approved.,発注書が正常に承認されました。
 Purchase order has been successfully rejected.,発注が正常に却下されました。
 Purchase order has been successfully validated.,発注書が正常に検証されました。
@@ -9342,7 +9342,7 @@ Qty to Ship,出荷数量
 Qty To Ship,出荷数量
 Qty Uses Decimals,個数に小数表記を使う
 Qty:,個数:
-Qty: ,個数:
+Qty: ,個数: 
 Quality,品質
 Quantities for identical items will be combined.,同一の項目の数量が合成されます。
 quantity,量
@@ -9369,7 +9369,7 @@ Quick Checkout,クイックチェックアウト
 Quick Order,クイックオーダー
 Quick Search Form Types,簡易検索フォーム種別
 Quote,見積もり
-Quote ,見積もり
+Quote ,見積もり 
 Quote & Account Information,見積もりとアカウント情報
 Quote #,引用番号
 Quote # %1,見積もり # %1
@@ -9420,7 +9420,7 @@ Ratings,評価
 Ratings Review Summary,評価レビューまとめ
 Re-seller ID,再販業者ID
 Re-seller ID:,再販業者ID:
-Re-seller ID: ,再販業者ID:
+Re-seller ID: ,再販業者ID: 
 Read Details,詳細を読む
 Read instructions on how to generate signature,署名の生成方法の説明を読む
 Read More,もっと読む
@@ -9668,7 +9668,7 @@ Request a Quote,見積もりをリクエスト
 Request content type must be application/json,リクエストのコンテンツタイプは、application/jsonでなければなりません
 Request Courier,希望配送業者
 Request Declined. Reason:,要求が拒否されました。理由:
-Request Declined. Reason: ,要求が拒否されました。理由:
+Request Declined. Reason: ,要求が拒否されました。理由: 
 Request Details,要求詳細
 Request does not match any route.,リクエストはどのルートにもマッチしません。
 Request Information,要求情報
@@ -9818,14 +9818,14 @@ Retry Messages In Progress After,実行中のメッセージの再試行時間
 Retry Synchronization,同期を再試行
 Return,返品
 Return #,返品 #
-Return # ,返品 #
+Return # ,返品 # 
 Return #%1,返品 #%1
 Return #%1 - %2,返品 #%1 - %2
 Return Address,返品住所
 Return Address:,返品住所:
 Return Confirmation,返品確認
 Return Date:,返品日:
-Return Date: ,返品日:
+Return Date: ,返品日: 
 Return Html Version,HTMLバージョンに戻る
 Return HTML Version,HTMLバージョン
 Return Information,返品情報
@@ -10048,7 +10048,7 @@ Save &amp; Continue,保存して続ける
 Save &amp; New,保存して新規作成
 Save Account,アカウントを保存
 Save Address,住所を保存
-"Save address for customer id = %1, email = %2, ",顧客ID = %1、メール = %2 のアドレスを保存
+"Save address for customer id = %1, email = %2, ",顧客ID = %1、メール = %2 のアドレスを保存 
 Save and Apply,保存と適用
 Save and Close,保存して閉じる
 Save and Continue,保存して続ける
@@ -10534,7 +10534,7 @@ Shipping and Handling,配送料
 Shipping and Payment Information,送料および支払い情報
 Shipping and Tracking Information,配送と追跡情報
 Shipping Cost,送料
-Shipping Cost: ,送料：
+Shipping Cost: ,送料： 
 Shipping Country,配送先の国
 Shipping Excl. Tax (%1),税別送料 (%1)
 Shipping Incl. Tax (%1),税込送料 (%1)
@@ -10735,7 +10735,7 @@ SKU length should be %1 characters maximum.,SKUの値の長さは最大 %1 文�
 SKU not found in catalog.,SKU がカタログに見つかりません。
 SKU number,SKU番号
 SKU:,SKU:
-SKU: ,SKU :
+SKU: ,SKU : 
 SKU: Ascending,SKU : 昇順
 SKU: Descending,SKU : 降順
 Slide,スライド
@@ -11146,7 +11146,7 @@ Store:,ストア :
 Store: %1 <br/>,ストア : %1 <br/>
 store(%1) scope,ストア(%1) スコープ
 Store(s) affected:,影響あるストア :
-Store(s) affected: ,影響あるストア :
+Store(s) affected: ,影響あるストア : 
 Stored Card,保存されたカード
 Stored Payment Method was successfully removed,保存されているお支払い方法は、正常に削除されました
 Stored Payment Methods,保存された支払い方法
@@ -11318,7 +11318,7 @@ Take a look at %customer_name's Wish List,%customer_name さんのほしい物�
 Target element not found for content update,コンテンツ更新用のターゲット要素が見つかりません
 Target Path,対象パス
 Target Product,対象商品
-Target Product ,対象商品
+Target Product ,対象商品 
 Target Rule,ターゲットルール
 Target Rule Index,ターゲットルールインデックス
 Target Rule Index.,ターゲットルールインデックス。
@@ -11823,7 +11823,7 @@ The image content is invalid. Verify the content and try again.,画像の内容�
 The image content is not valid.,画像コンテンツは有効ではありません。
 The image content must be valid base64 encoded data.,画像コンテントは有効なベース64エンコードデータでなければなりません。
 The image content must be valid data.,画像の内容は有効なデータでなければなりません。
-The image could not be resized: ,画像のサイズを変更できませんでした:
+The image could not be resized: ,画像のサイズを変更できませんでした: 
 The image does not exist.,画像は存在しません。
 The image doesn't exist.,画像が存在しません。
 The image doesn't exist. Verify and try again.,画像が存在しません。確認してから再度お試し下さい。
@@ -11910,7 +11910,7 @@ The new media gallery entry failed to save.,新しいメディアギャラリー
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More
 information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More
 information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>."
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>."
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","New Relicとの統合にはnewrelic-php5エージェントが必要です。これはインストールされていません。 エージェントのインストールの詳細については、<a target=""_blank"" href=""%1"">こちら</a>を参照してください。"
@@ -12048,7 +12048,7 @@ The quantity of a wish list item cannot be 0,ほしい物リストアイテム�
 The quantity to refund must not be greater than the unrefunded quantity.,払い戻す数量は、払い戻しされない数量を超えてはいけません。
 "The quantity to ship must not be greater than the unshipped quantity for product SKU ""%1"".","出荷する数量は、商品 SKU ""%1"" の未出荷数量を超えてはいけません。"
 The quote,見積もり
-The quote ,見積もり
+The quote ,見積もり 
 The quote %quoteId is currently locked and cannot be closed.,見積もり %quoteId は現在ロックされており、クローズできません。
 The quote %quoteId is currently locked and cannot be declined.,見積もり %quoteId は現在ロックされており、拒否できません。
 The quote %quoteId is currently locked and cannot be submitted to the customer. Please check the quote status.,この見積もり %quoteId は現在ロックされており、顧客に送信できません。見積もりのステータスを確認して下さい。
@@ -12124,7 +12124,7 @@ The search failed because of a search engine misconfiguration.,検索エンジ�
 The secret parameter is invalid or malformed.,秘密鍵パラメーターが無効か、形式が正しくありません。
 The secret parameter is missing.,秘密鍵パラメーターがありません。
 The security validation of the XML document has failed.,XMLドキュメントのセキュリティ検証に失敗しました。
-The selected assets are used in the content of the following entities: ,選択したアセットは次のエンティティのコンテンツで使用されます：
+The selected assets are used in the content of the following entities: ,選択したアセットは次のエンティティのコンテンツで使用されます： 
 The selected category isn't associated with the selected store.,選択されたカテゴリは選んだストアに紐付いていません。
 The selected changes have been applied to the shared catalog.,選択した変更が共有カタログに適用されました。
 The selected companies are already using a different shared catalog. This action will change a shared catalog for selected companies. Would you like to continue?,選択した会社はすでに別の共有カタログを使用しています。 この操作により、選択した会社の共有カタログが変更されます。 続行しますか？
@@ -12132,8 +12132,8 @@ The selected companies will be unlinked from the current shared catalog and link
 "The selected credit currency is not valid.
 Customers will not be able to place orders until you update the credit currency.","選択した信用通貨は無効です。
 顧客は、信用通貨を更新するまで注文を行うことができません。"
-"The selected credit currency is not valid.
-                        Customers will not be able to place orders until you update the credit currency.","選択した信用通貨は無効です。
+"The selected credit currency is not valid. 
+                        Customers will not be able to place orders until you update the credit currency.","選択した信用通貨は無効です。 
                         顧客は、信用通貨を更新するまで注文を行うことができません。"
 The selected currency is not available. Please select a different currency.,選択した通貨は利用できません。 別の通貨を選択してください。
 The selected items are being processed. You can continue to work in the meantime.,選択した項目が処理されています。 その間も作業を続けることができます。
@@ -12141,7 +12141,7 @@ The selected product isn't associated with the selected store or category.,選�
 The selected rule does not exist.,選択したルールは存在しません。
 "The selected user is inactive. To continue, select another user or activate the current user.",選択したユーザーは非アクティブです。 続行するには、別のユーザーを選択するか、現在のユーザーをアクティブにします。
 The seller responded to your quote,販売者があなたの見積もりに返信しました
-The seller responded to your quote ,販売者が見積もりに返信しました
+The seller responded to your quote ,販売者が見積もりに返信しました 
 "The sender name ""%1"" is not valid. Please use only visible characters and spaces.","送信者名 ""%1"" は無効です。キャラクターとスペースのみ使用してください。"
 The service is unknown. Verify the service and try again.,サービスが不明です。サービスを確認して再度お試し下さい。
 The shared catalog was deleted successfully.,共有カタログが削除されました。
@@ -12301,7 +12301,7 @@ The VAT ID is valid but no Customer Group is assigned for it.,VAT IDは有効で
 The VAT ID is valid.,VAT ID番号が無効です
 The VAT ID is valid. The current Customer Group will be used.,正しいVAT番号です。 現在のグループが使用されます。
 The verification transaction can't be voided.,確認トランザクションを無効にすることはできません。
-The verification transaction can't be voided. ,検証トランザクションを無効にすることはできません。
+The verification transaction can't be voided. ,検証トランザクションを無効にすることはできません。 
 The void action is not available.,空のアクションはできません。
 The website does not exist.,ウェブサイトがありません。
 The website wasn't found. Verify the website and try again.,ウェブサイトが見つかりませんでした。ウェブサイトを確認して再度お試し下さい。
@@ -12578,7 +12578,7 @@ This is required field,必須項目です
 This is test data,これはテストデータです
 This is test data at right side of attr,これはattrの右側のテストデータです
 This is test data with a quote after,これは引用の後でテストデータです
-This is test data with space after ,これは後にスペースでテストデータです
+This is test data with space after ,これは後にスペースでテストデータです 
 This is the wrong quote item id to update configuration.,これは設定をアップデートするには誤ったクオート商品idです
 This is the wrong RMA ID.,これは間違ったRMA IDです。
 This is the wrong RMA item status.,これは誤ったRMAアイテムステータスです。
@@ -12734,7 +12734,7 @@ to,to
 To,To
 "To apply changes you should fill in hidden required ""%1"" field","変更を適用するには隠れた必須の""%1""フィールドを埋めなくてはなりません。"
 "To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",税を含む価格に割引を適用し、割引後に税金を適用するには、カタログ価格を「税込」に設定します。
-"To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. ",税を含む価格に割引を適用し、割引後に税金を適用するには、カタログ価格を「税込」に設定します。
+"To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. ",税を含む価格に割引を適用し、割引後に税金を適用するには、カタログ価格を「税込」に設定します。 
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",ニュースレターを受け取るには、 以下のリンクをクリックして購読の確認をまず行わなければなりません:
 "To check out, please sign in using your email address.",チェックアウトするには、メールアドレスでサインインしてください。
 "To check out, please sign in with your email address.",チェックアウトするには、メールアドレスでサインインしてください。
@@ -12865,7 +12865,7 @@ Transaction can not be voided if status of a PayPal partial settlement child tra
 "Transaction can only be voided if status is authorized, submitted_for_settlement, or - for PayPal - settlement_pending.",ステータスが承認された場合、つまり、submit_for_settlement、または - for PayPal - settlement_pending の場合のみ、トランザクションを無効にできます。
 Transaction Data,トランザクションデータ
 Transaction declined by gateway: Check card details or try another card,ゲートウェイによってトランザクションが却下されました: カード詳細をチェックするか別のカードをお試しください
-Transaction declined: ,トランザクション却下:
+Transaction declined: ,トランザクション却下: 
 Transaction Details,トランザクション詳細
 Transaction Details URL,トランザクション詳細のURL
 Transaction has already been completely refunded.,取引はすでに完全に返金されています。
@@ -12916,12 +12916,12 @@ Trigger statement should be a string,Trigger statement は文字列でなけれ�
 Trigger table name is not defined,Trigger table 名は定義されていません
 Trigger table name should be a string,Trigger table 名は文字列でなければなりません
 Trigger time is not defined,Trigger time は定義されていません
-Trigger unsupported event type,Trigger eventタイプをサポートしていません
+Trigger unsupported event type,Trigger eventタイプをサポートしていません 
 Trigger unsupported time type,Triggerはtimeタイプをサポートしていません
 Triggered Fraud Filters,不正フィルターを発動
 TRUE,TRUE
 Trusted Payment Options,信用できる支払いオプション
-"Try to login as customer id = %1, email = %2, ",顧客ID = %1、メール = %2 としてログインしてみてください。
+"Try to login as customer id = %1, email = %2, ",顧客ID = %1、メール = %2 としてログインしてみてください。 
 "Trying to override modular view file '%1' for theme '%2', which is not ancestor of theme '%3'",テーマ'%2'、テーマ'%3'の先祖、のためのモジュールビューファイル '%1'を書き換える
 TTL for public content,パブリックコンテントのためのTTL
 "Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Ttl値 ""%1""は有効ではありません。ゼロと同じかそれ以上の数字のみ使って下さい"
@@ -13193,7 +13193,7 @@ Upload Image,画像をアップロード
 Upload Images,画像をアップロード
 Upload JS Files,JSファイルアップロード
 Upload New Image,新しい画像をアップロード
-Upload server currently unavailable - ,サーバーアップロードは現在無効です -
+Upload server currently unavailable - ,サーバーアップロードは現在無効です - 
 Upload type can not be determined.,アップロードのタイプを特定できません。
 Uploaded Date,アップロード日
 Uploaded image is not valid,アップロードされた画像は有効ではありません
@@ -13463,7 +13463,7 @@ VAT Request Date,VATリクエスト日
 VAT Request Identifier,VATリクエスト識別番号
 VAT/TAX ID,VAT/税ID:
 VAT/TAX ID:,VAT/税ID:
-VAT/TAX ID: ,VAT/税ID:
+VAT/TAX ID: ,VAT/税ID: 
 Vault enabled,Vault有効
 Vault Enabled,Vault有効
 Vault Title,Vaultのタイトル
@@ -13490,7 +13490,7 @@ Vertical alignment controls how the child blocks of this container will be posit
 Very Strong,とても強い
 Video,ビデオ
 Video cant be shown due to the following reason:,以下の理由によりビデオが見つかりません:
-Video cant be shown due to the following reason: ,以下の理由によりビデオが見つかりません:
+Video cant be shown due to the following reason: ,以下の理由によりビデオが見つかりません: 
 Video Error,ビデオエラー
 Video not found,ビデオが見つかりません
 Video URL,ビデオURL
@@ -13585,7 +13585,7 @@ Warning message,警告メッセージ
 Warning message.,警告メッセージ.
 Warning tax configuration can result in rounding errors. ,注意 税設定は切り上/下げエラーになることがあります
 "Warning tax discount configuration might result in different discounts
-                                than a customer might expect. ",警告 割引に関する税設定は顧客が期待する結果と異なる結果になる可能性があります。
+                                than a customer might expect. ",警告 割引に関する税設定は顧客が期待する結果と異なる結果になる可能性があります。 
 Warning tax discount configuration might result in different discounts than a customer might expect. ,警告 税制の設定は、顧客が期待するよりも異なる割引をもたらす可能性があります。
 WARNING:,警告:
 "Warning: necessary space for backup is ' . . 'MB, but your free disc space is ' . . 'MB.","警告: バックアップに必要なスペースは ' . . 'MB です, しかし現在のフリースペースは ' . . 'MB です。"
@@ -14053,7 +14053,7 @@ Weight,重さ
 Weight (and above),重量
 Weight Unit,重量単位
 Weight vs. Destination,重量と配送先
-Weight:,重量:
+Weight:,重量: 
 Weighted Random,重み付けランダム
 welcome,ようこそ
 Welcome Email,ウェルカムメール
@@ -14482,20 +14482,20 @@ not be restricted to customers.","ストアフロントで共有カタログを�
 <a href=""%1"" data-role=""notification-dialog"">共有カタログ</a>機能を有効にする必要があります。
 そうでなければ、共有カタログで設定しているカテゴリと商品は
 顧客に限定されません。"
-"You must enable the <a href=""%1"" data-role=""notification-dialog"">shared catalog</a> feature in
+"You must enable the <a href=""%1"" data-role=""notification-dialog"">shared catalog</a> feature in 
         Stores -> Configuration -> B2B Features to use the shared catalogs in the storefront.
-        Otherwise, the categories and products you're configuring in shared catalogs will
-        not be restricted to customers.","ストアフロントで共有カタログを使用するには、Stores -> Configuration -> B2B Features で
+        Otherwise, the categories and products you're configuring in shared catalogs will 
+        not be restricted to customers.","ストアフロントで共有カタログを使用するには、Stores -> Configuration -> B2B Features で 
          <a href=""%1"" data-role=""notification-dialog"">共有カタログ</a>機能を有効にする必要があります。
-        そうでなければ、共有カタログで設定しているカテゴリと商品は
+        そうでなければ、共有カタログで設定しているカテゴリと商品は 
         顧客に限定されません。"
 "You must enable the shared catalog feature in Stores -> Configuration -> B2B Features
 to use the shared catalogs in the storefront. Otherwise, the categories and products you're
 configuring in shared catalogs will not be restricted to customers.","ストアフロントで共有カタログを使用するには、Stores -> Configuration -> B2B Features で
 共有カタログ機能を有効にする必要があります。そうでなければ、共有カタログで設定している     カテゴリと商品は顧客に限定されません。"
-"You must enable the shared catalog feature in Stores -> Configuration -> B2B Features
-    to use the shared catalogs in the storefront. Otherwise, the categories and products you're
-    configuring in shared catalogs will not be restricted to customers.","ストアフロントで共有カタログを使用するには、Stores -> Configuration -> B2B Features で
+"You must enable the shared catalog feature in Stores -> Configuration -> B2B Features 
+    to use the shared catalogs in the storefront. Otherwise, the categories and products you're 
+    configuring in shared catalogs will not be restricted to customers.","ストアフロントで共有カタログを使用するには、Stores -> Configuration -> B2B Features で 
     共有カタログ機能を有効にする必要があります。そうでなければ、共有カタログで設定している     カテゴリと商品は顧客に限定されません。"
 You must fill in all required fields before you can continue.,続行する前に、必要なすべてのフィールドに記入する必要があります。
 You must first configure currency options before being able to see currency rates.,通貨レートを表示するには、まず通貨オプションを設定する必要があります。
@@ -14682,7 +14682,7 @@ Your balance is %1.,残高は %1 です。
 Your balance is:,残高は:
 Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.,ベースURLが変更され、レポートが更新されています。 この変更が処理されると、高度なレポートが利用可能になります。 後で再度お試し下さい。
 Your billing agreement # is:,あなたの支払合意番号は:
-Your billing agreement # is: ,あなたの支払契約番号は:
+Your billing agreement # is: ,あなたの支払契約番号は: 
 "Your company account <strong>%company_name</strong> has been blocked.
 Your company members can continue using the website,
 but they will not be able to place orders.","あなたの会社アカウント<strong>%company_name</strong>はロックされました。
@@ -14719,8 +14719,8 @@ and use other B2B features.","あなたの会社登録リクエスト（<strong>
     You can now create and manage your company structure.
     Your company members are able to request quotes, create requisition lists,
     and use other B2B features.","あなたの会社登録リクエスト（<strong>%company_name</strong>）が承認され、
-    あなたは会社管理者として設定されています。
-    あなたは会社の組織構成を作成して管理することができます。
+    あなたは会社管理者として設定されています。 
+    あなたは会社の組織構成を作成して管理することができます。 
     あなたの会社の従業員は、見積の依頼や請求リストの作成、その他のB2B機能が利用できます。"
 "Your company registration request (for the <strong>%company_name</strong>) has been rejected
 for the following reason:",次の理由により、あなたの会社登録リクエスト（<strong>%company_name</strong>）が拒否されました:
@@ -14745,7 +14745,7 @@ Your current currency is: %1.,現在の通貨: %1.
 Your current session has been expired.,セッションが期限切れになりました。
 Your current session is terminated by another user of this account.,現在のセッションは、このアカウントの別のユーザーによって終了されます。
 Your current tax configuration may result in rounding errors.,現在の税設定により、丸め誤差が生じる可能性があります。
-Your current tax configuration may result in rounding errors. ,現在の税設定により、丸め誤差が生じる可能性があります。
+Your current tax configuration may result in rounding errors. ,現在の税設定により、丸め誤差が生じる可能性があります。 
 Your Customization,あなたのカスタマイズ
 "Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.",デフォルトのロゴは、PDF と HTML 文書で使用されます。<br />(jpeg、tiff、png) PDF 画像が見づらい場合は、より大きなファイルサイズの画像を使用してみてください。
 Your export file is ready,エクスポートファイルが利用できるようになりました
@@ -14763,9 +14763,9 @@ Your order #%increment_id has been updated with a status of <strong>%order_statu
 Your order #%order_id has been cancelled. The order amount reverted to the company credit.,あなたの注文 #%order_id がキャンセルされました。 注文金額は会社のクレジットに戻りました。
 "Your Order <span class=""no-link"">#%increment_id</span>","ご注文番号 <span class=""no-link"">%increment_id</span>"
 "Your Order <span class=""no-link"">#%increment_id</span> is complete","ご注文番号 <span class=""no-link"">%increment_id</span> のご用意ができました"
-Your order number is: ,注文番号:
+Your order number is: ,注文番号: 
 Your order number is: %1.,ご注文番号は: %1 です。
-Your order numbers are: ,ご注文番号は:
+Your order numbers are: ,ご注文番号は: 
 Your order placed from %store_name is ready for pickup.,%store_name でのご注文がご指定の店舗でお受取り頂ける状態になりました
 Your Packaging,包装
 Your Password,あなたのパスワード
@@ -14784,7 +14784,7 @@ Your Purchase Order request number is %1,発注要求番号は%1です
 Your Purchase Order requires approval from:,発注書には次の承認が必要です：
 Your purchase process has been cancelled.,ご注文の処理がキャンセルされました。
 Your quote,あなたの見積もり
-Your quote ,あなたの見積もり
+Your quote ,あなたの見積もり 
 Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.,あなたの見積もりは期限切れとなり、商品価格はカタログの最新価格に従って更新されました。 より詳細な交渉のために見積もりを販売業者に再送信するか、レジに進むことができます。
 Your quote number is: %1.,あなたのクオート番号は: %1.
 Your Rating,あなたの評価
@@ -15031,12 +15031,12 @@ you’ll have to negotiate the price with the seller again."," その期間を�
 Show All Quotes,すべての見積もりを表示
 Show My Quotes,自分の見積もりを表示
 The shipping address specified on the quote was deleted from your Address Book.,見積もりで指定された配送先住所はアドレス帳から削除されました。
-"To proceed with the checkout, go ",チェックアウトを続行するには、次に移動します：
+"To proceed with the checkout, go ",チェックアウトを続行するには、次に移動します： 
 back to the quote,見積もりに戻る
  and update the shipping address., および発送先住所を更新します。
-The shipping address specified on the quote was deleted from your Address Book. ,見積もりで指定された配送先住所はアドレス帳から削除されました。
+The shipping address specified on the quote was deleted from your Address Book. ,見積もりで指定された配送先住所はアドレス帳から削除されました。 
 "To proceed with the checkout, update the shipping address.",チェックアウトを続行するには、発送先住所を更新します。
-"Your shipping address is locked. To change your shipping address, go ",配送先住所がロックされています。配送先住所を変更するには、次に移動します：
+"Your shipping address is locked. To change your shipping address, go ",配送先住所がロックされています。配送先住所を変更するには、次に移動します： 
 Edit Banner Text,バナーテキストを編集
 Grid Size,グリッドサイズ
 Grid size determines the maximum number of columns available.,グリッドサイズによって、使用可能な列の最大数が決まります。
@@ -15048,7 +15048,7 @@ Edit Slide Text,スライドテキストを編集
 Edit Text,テキストを編集
 Insert Image...,画像を挿入…
 Save as Template,テンプレートとして保存
-View your content for ,コンテンツの表示対象
+View your content for ,コンテンツの表示対象 
 You will receive an email at each approval stage. You will be asked to enter your payment details after the purchase order has been approved.,承認ステージごとにメールが送信されます。発注書が承認された後、支払いの詳細を入力するよう求められます。
 Go to the Add Payment page to complete the order.,「支払い」ページ追加に移動して、注文を完了します。
 "<a href=""%purchase_order_add_payment_url"">Add Payment</a>","<a href=""%purchase_order_add_payment_url "">追加支払い</a>"
@@ -15113,13 +15113,13 @@ Delete folder,フォルダーを削除
 – Please Select assets –, - アセットを選択してください -
 "Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes ? Page Builder can be selected as the “input type” to design layouts and create content.",ページレイアウトの設計、Magentoコンテンツ(カテゴリデータ、CMSコンテンツおよびブロック)の追加、テキストの書式設定を行う高度なツールが含まれています。<br /><br />製品属性の場合：Page Builderは「入力タイプ」として選択してレイアウトを作成できます。
 "
-
+                        
                         <p>Style changes will only affect this breakpoint</p>
-
+                        
                     ","
-
+                        
                         <p>スタイルの変更はこのブレークポイントにのみ影響します</p>
-
+                        
                     "
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -15316,19 +15316,19 @@ The quantity of a wishlist item cannot be 0,ほしい物リスト項目の数量
 "Could not find product for the wishlist item with ID ""%1""",ID が「%1」のほしい物リスト項目の製品が見つかりませんでした
 Could not prepare product for the wishlist item with ID %1,ID %1 のほしい物リスト項目の製品を準備できませんでした
  Item(s), 項目
-Items ,項目
- to , 宛先
+Items ,項目 
+ to , 宛先 
  total, 合計
 Previous Page,前のページ
 Next Page,次のページ
-From ,送信者
+From ,送信者 
 Enter your billing address to get a tax estimate.,税見積を取得するには、請求先住所を入力してください。
-From ,送信者
+From ,送信者 
 Show Password,パスワードを表示
-From ,送信者
+From ,送信者 
 <strong>Registry Location:</strong> <a href='%registry_url'>%registry_url</a>,<strong>レジストリの場所：</strong> <a href='%registry_url'>%registry_url</a>
-From ,送信者
-Source code: ,ソースコード：
+From ,送信者 
+Source code: ,ソースコード： 
 Search with postcode or city name...,郵便番号または市区町村名で検索…
 Edit Heading Text,見出しテキストを編集
 ...,...
@@ -15402,7 +15402,7 @@ Error during placing order occurred,発注中にエラーが発生しました
 Order information is not available yet. Try again in a couple of minutes.,注文情報はまだ利用できません。数分後に再度お試しください。
 Received,受信日時
 Add product of type,次のタイプの製品を追加
-Edit ,編集
+Edit ,編集 
 Some of the products are disabled.,一部の製品が無効です。
 Save options,保存オプション
 We cannot create the folder under the selected directory.,選択したディレクトリの下にフォルダーを作成できません。
@@ -15510,14 +15510,14 @@ The current customer does not have permission to set shipping method on the nego
 Unsupported negotiable quote address type,サポートされていない交渉可能な見積もりの住所タイプです
 "Required parameter ""quote_uid"" is missing",必須パラメーター「quote_uid」がありません
 You cannot set multiple shipping addresses in the same call. We recommend using the `shipping_address` type. The `customer_address_id` field is deprecated.,同じ呼び出しで複数の配送先住所を設定することはできません。「shipping_address」タイプの使用をお勧めします。「customer_address_id」フィールドは廃止されています。
-Type: ,種類 :
+Type: ,種類 : 
 Product Recommendations,Product Recommendations
 An error occurred contacting Magento Services,Magento サービスへの接続中にエラーが発生しました
 The current customer cannot place a negotiable quote order.,現在の顧客は交渉可能な見積もりを発注できません。
 Save Project Name,プロジェクト名を保存
 Create Project,プロジェクトを作成
 Rename Data Space,データスペース名を変更
-Type: ,種類 :
+Type: ,種類 : 
 Rename this Project,このプロジェクトの名前を変更
 "Your SaaS Project ID or Data Space ID is invalid. Check the values, including in the database.",SaaS プロジェクト ID またはデータスペース ID が無効です。データベースを含め、値を確認してください。
 Save Data Space Name,データスペース名を保存
@@ -15534,7 +15534,7 @@ An error occurred updating project,プロジェクトの更新中にエラーが
 An error occurred updating environment,環境の更新中にエラーが発生しました
 Private key signing failed. Check that the private key is correct.,プライベートキーの署名に失敗しました。プライベートキーが正しいことを確認してください。
 Private key signing failed,プライベートキーの署名に失敗しました
-Data Space ID: ,データスペース ID :
+Data Space ID: ,データスペース ID : 
 Changing the SaaS Identifier will cause <u>all Commerce Services</u> used by this instance to connect to a different data store. They will lose access to previously stored data.,SaaS 識別子を変更すると、このインスタンスが使用する<u>すべての Commerce Services</u> が別のデータストアに接続します。以前に保存したデータにアクセスできなくなります。
 It’s recommended you <strong>DO NOT</strong> reconfigure Commerce Services Connector on an active production instance.,アクティブな実稼働インスタンスで Commerce Services Connector を再構成<strong>しない</strong>ことをお勧めします。
 Change Configuration,設定を変更
@@ -15676,15 +15676,15 @@ Source selection algorithm result,倉庫選択アルゴリズムの結果
 "Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes ? Page Builder can be selected as the “input type” to design layouts and create content.",ページレイアウトのデザイン、Magento コンテンツ (商品およびカテゴリデータ、CMS コンテンツおよびブロック) の追加、テキストの書式設定を行うための高度なツールが含まれています。<br /><br /> 製品属性の場合 : ページビルダーを「入力タイプ」として選択して、レイアウトのデザインやコンテンツの作成を行うことができます。
 Column Line,列ライン
 "
-
+                        
                         <p>Grid Size determines the maximum number of columns available.</p>
                          <p>Select a value between 2 and the value set in Maximum Column Grid Size setting in Content Management configuration.</p>
-
+                        
                     ","
-
+                        
                         <p> グリッドサイズによって、使用可能な列の最大数が決まります。</p>
                          <p>2 から、コンテンツ管理設定の「列のグリッドサイズの最大値」設定で設定した値までの値を選択します。</p>
-
+                        
                     "
 Enable for Gift Card,ギフトカード用に有効化
 Enable for Invitation Create Account,招待状作成アカウント用に有効化
