@@ -15703,3 +15703,5 @@ Additionally Show Order Total Without Tax,さらに税抜きの注文合計を�
 "Fedex API endpoint URL\'s must use fedex.com","Fedex API エンドポイント URL は fedex.com を使用しなければなりません。"
 "Invalid quote address id %1","不正な見積もりの住所ID %1 です"
 "USPS API endpoint URL\'s must use usps.com or shippingapis.com","USPS API API エンドポイント URL は usps.com または shippingapis.com を使用しなければなりません。"
+"Handles params size","ハンドルパラメータサイズ"
+"Handles params size. For better performance use handles parameter size between 50 and 100.","ハンドルパラメータサイズ。良好なパフォーマンスのためにハンドルパラメータ数は50以上100以下を使用して下さい。"
